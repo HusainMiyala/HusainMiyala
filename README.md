@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HusainMiyala
-- 👀 I’m interested in Data Analysis and Visualization, particularly in the field of Renewables, Clean Energy, and CLimate Change.
+- 👀 I’m interested in Data Analysis and Visualization, particularly in the field of Renewables, Clean Energy, and Climate Change.
 - 🌱 I’m currently learning JavaScript, Python, SQL
 
 
